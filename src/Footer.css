@@ -1,0 +1,20 @@
+.footer {
+  width: 100%;
+  border-top: 1px solid #E9D4D0;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.875rem; /* text-sm */
+  color: white; /* text-gray-700 */
+  background-color: #1F; /* bg-gray-900 */
+}
+
+.footer span {
+  margin: 0 0.5rem; /* mx-2 */
+}
+
+.footer .border-left {
+  border-left: 1px solid #9CA3AF; /* border-gray-400 */
+  padding-left: 0.5rem; /* pl-2 */
+}
